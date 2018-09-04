@@ -1,2 +1,1 @@
-# My website
-# motherfucks
+# Hello world
