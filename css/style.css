@@ -48,10 +48,9 @@ body
 	border: ;
 }
 
-figure 
+img
 {
-	float : center;
-
+	width: 300;
+	float: center;
 }
-
 
