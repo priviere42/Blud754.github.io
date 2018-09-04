@@ -50,8 +50,8 @@ body
 
 figure 
 {
-	size : 6000px;
-	position : center;
+	width: 6000px;
+	float: center;
 
 }
 
